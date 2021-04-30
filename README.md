@@ -1,1 +1,1 @@
-The working demo of the Covid-Tracker is 
+The output screenshots of the Covid19-tracker.
